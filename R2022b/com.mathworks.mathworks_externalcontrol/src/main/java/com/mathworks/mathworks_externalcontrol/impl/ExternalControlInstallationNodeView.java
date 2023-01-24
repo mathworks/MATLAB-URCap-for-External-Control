@@ -113,7 +113,7 @@ public class ExternalControlInstallationNodeView
     private Box createNameBox(final ExternalControlInstallationNodeContribution contribution) {
         Box box = Box.createVerticalBox();
         // create name Label
-        JLabel label = new JLabel("Host name");
+        JLabel label = new JLabel("Robot IP: ");
         box.add(label);
         // create name Textfield
         textFieldName = new JTextField(15);

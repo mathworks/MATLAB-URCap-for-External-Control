@@ -42,7 +42,7 @@ public class ExternalControlInstallationNodeContribution implements Installation
     private static final String NAME = "name";
     private static final String DEFAULT_IP = "192.168.56.1";
     private static final String DEFAULT_PORT = "50002";
-    private static final String DEFAULT_NAME = "myComputer";
+    private static final String DEFAULT_NAME = "127.0.0.1";
     private DataModel model;
     private final ExternalControlInstallationNodeView view;
     private final KeyboardInputFactory keyboardFactory;
