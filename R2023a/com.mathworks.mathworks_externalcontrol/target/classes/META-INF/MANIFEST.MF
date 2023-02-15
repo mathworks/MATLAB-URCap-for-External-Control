@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1674505009886
+Build-Jdk: 1.8.0_292
+Built-By: ur
+Bundle-Activator: com.mathworks.mathworks_externalcontrol.impl.Activator
+Bundle-Category: URCap
+Bundle-ContactAddress: https://mathworks.com/support/contact_us.html
+Bundle-Copyright: Copyright (C) 2022 The MathWorks, Inc.
+Bundle-Description: MathWorks URcap which enables external control over 
+ ROS
+Bundle-LicenseType: Apache License, Version 2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MATLAB URCap for External Control
+Bundle-SymbolicName: com.mathworks.matlab_externalcontrol
+Bundle-Vendor: The MathWorks, Inc.
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Import-Package: com.ur.urcap.api.contribution;version="[1.9,2)",com.ur.u
+ rcap.api.contribution.installation;version="[1.8,2)",com.ur.urcap.api.c
+ ontribution.installation.swing;version="[1.8,2)",com.ur.urcap.api.contr
+ ibution.program;version="[1.9,2)",com.ur.urcap.api.contribution.program
+ .swing;version="[1.8,2)",com.ur.urcap.api.domain;version="[1.10,2)",com
+ .ur.urcap.api.domain.data;version="[1.10,2)",com.ur.urcap.api.domain.sc
+ ript;version="[1.8,2)",com.ur.urcap.api.domain.undoredo;version="[1.8,2
+ )",com.ur.urcap.api.domain.userinteraction;version="[1.9,2)",com.ur.urc
+ ap.api.domain.userinteraction.keyboard;version="[1.8,2)",javax.imageio,
+ javax.swing,javax.swing.border,org.osgi.framework;version="[1.6,2)"
+Tool: Bnd-2.1.0.20130426-122213
+URCapCompatibility-CB3: true
+URCapCompatibility-eSeries: true
