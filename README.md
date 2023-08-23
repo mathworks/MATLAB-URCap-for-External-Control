@@ -1,7 +1,7 @@
 # MATLAB&reg; URCap for External Control
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
-Using the [Robotics System Toolbox&trade; Support Package for Universal Robots UR Series Manipulators](https://www.mathworks.com/matlabcentral/fileexchange/117530-robotics-system-toolboxtm-support-package-for-universal-robots-ur-series-manipulators), you can establish ROS communication with Universal Robots manipulators. The matlab_externalcontrol-1.0.0.urcap allows you to create external control of the manipulator over ROS. 
+Using the [Robotics System Toolbox&trade; Support Package for Universal Robots UR Series Manipulators](https://www.mathworks.com/matlabcentral/fileexchange/117530-robotics-system-toolbox-support-package-for-universal-robots-ur-series-manipulators), you can establish ROS communication with Universal Robots manipulators. The matlab_externalcontrol-1.0.0.urcap allows you to create external control of the manipulator over ROS. 
 
 ## MathWorks Products (https://www.mathworks.com)
 
